@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ПТПМ_2", "ПТПМ_2\ПТПМ_2.csproj", "{655E792A-5F35-41A7-A5DC-D83EAF47F74E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{C994D638-FB5F-44F6-B12A-8692F80BCCC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{655E792A-5F35-41A7-A5DC-D83EAF47F74E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{655E792A-5F35-41A7-A5DC-D83EAF47F74E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{655E792A-5F35-41A7-A5DC-D83EAF47F74E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{655E792A-5F35-41A7-A5DC-D83EAF47F74E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C994D638-FB5F-44F6-B12A-8692F80BCCC0}.Debug|Any CPU.ActiveCfg = Debug
+		{C994D638-FB5F-44F6-B12A-8692F80BCCC0}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B974991-EF93-46CE-918C-7023A93D2AEB}
+	EndGlobalSection
+EndGlobal

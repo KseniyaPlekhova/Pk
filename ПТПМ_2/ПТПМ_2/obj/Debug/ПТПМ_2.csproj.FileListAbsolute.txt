@@ -1,0 +1,11 @@
+C:\Users\79525\Desktop\ПТПМ_2\ПТПМ_2\bin\Debug\ПТПМ_2.exe.config
+C:\Users\79525\Desktop\ПТПМ_2\ПТПМ_2\bin\Debug\ПТПМ_2.exe
+C:\Users\79525\Desktop\ПТПМ_2\ПТПМ_2\bin\Debug\ПТПМ_2.pdb
+C:\Users\79525\Desktop\ПТПМ_2\ПТПМ_2\obj\Debug\ПТПМ_2.csproj.AssemblyReference.cache
+C:\Users\79525\Desktop\ПТПМ_2\ПТПМ_2\obj\Debug\ПТПМ_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\79525\Desktop\ПТПМ_2\ПТПМ_2\obj\Debug\ПТПМ_2.Form1.resources
+C:\Users\79525\Desktop\ПТПМ_2\ПТПМ_2\obj\Debug\ПТПМ_2.Properties.Resources.resources
+C:\Users\79525\Desktop\ПТПМ_2\ПТПМ_2\obj\Debug\ПТПМ_2.csproj.GenerateResource.cache
+C:\Users\79525\Desktop\ПТПМ_2\ПТПМ_2\obj\Debug\ПТПМ_2.csproj.CoreCompileInputs.cache
+C:\Users\79525\Desktop\ПТПМ_2\ПТПМ_2\obj\Debug\ПТПМ_2.exe
+C:\Users\79525\Desktop\ПТПМ_2\ПТПМ_2\obj\Debug\ПТПМ_2.pdb
